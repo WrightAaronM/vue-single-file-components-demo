@@ -24,4 +24,4 @@ To use it:
 2. Navigate to the directory
 3. Run `npm install`. It should setup everything you need.
 4. Run `npm run build`.
-5. Check it out in your browser!
+5. Open your browser and open the `dist/index.html` file
