@@ -20,8 +20,8 @@ It assumes a basic understanding of npm, webpack, Vue, and all that good stuff.
 
 To use it:
 
-1.Download or clone the app
-2.Navigate to the directory
-3.Run `npm install`. It should setup everything you need.
-4.Run `npm run build`.
-5.Check it out in your browser!
+1. Download or clone the app
+2. Navigate to the directory
+3. Run `npm install`. It should setup everything you need.
+4. Run `npm run build`.
+5. Check it out in your browser!
